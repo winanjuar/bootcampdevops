@@ -1,0 +1,2 @@
+ini contoh file1.txt
+cobain pake ssh daripada https
